@@ -1,0 +1,6 @@
+D:\Projects\C# Project\Subtitles\SubtitlesConsoleApplication\SubtitlesConsoleApplication\bin\Debug\SubtitlesConsoleApplication.exe.config
+D:\Projects\C# Project\Subtitles\SubtitlesConsoleApplication\SubtitlesConsoleApplication\bin\Debug\SubtitlesConsoleApplication.exe
+D:\Projects\C# Project\Subtitles\SubtitlesConsoleApplication\SubtitlesConsoleApplication\bin\Debug\SubtitlesConsoleApplication.pdb
+D:\Projects\C# Project\Subtitles\SubtitlesConsoleApplication\SubtitlesConsoleApplication\obj\Debug\SubtitlesConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Projects\C# Project\Subtitles\SubtitlesConsoleApplication\SubtitlesConsoleApplication\obj\Debug\SubtitlesConsoleApplication.exe
+D:\Projects\C# Project\Subtitles\SubtitlesConsoleApplication\SubtitlesConsoleApplication\obj\Debug\SubtitlesConsoleApplication.pdb
